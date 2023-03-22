@@ -257,7 +257,8 @@ body {
 
 #imgright .imgContainer:nth-child(3) {
   transform: translate(20%, 10%) rotate(-5deg);
-  background-image: url(https://reactjs.org/logo-og.png);
+  background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif);
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSMcpOUx2NpJzqDB9OYGdb6G05SWUQJzBjjFSsJK20A&s); */
   background-size: cover;
   background-position: center;
 }
